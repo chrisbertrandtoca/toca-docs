@@ -1,1 +1,1 @@
-This is the changed file content
+This is the changed file content, changed again, but not yet committed.
