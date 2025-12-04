@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "id": "ca5b30cf-48cc-4275-bf88-19dc0ae53920",
+    "contentHash": "V1s9ZDiHbnG/V3Kg5tapWPfNQkXhMlNt/Y0Yf6JIpEI=",
+    "platformVersion": "1.0.0",
+    "revisionId": "12b52f33-891b-44bf-86f4-8f184495bd1a",
+    "updatedAt": "2025-12-04T16:32:08.9629624Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/test"
+  },
+  "content": {
+    "id": "6931b766f82eede0f1490fe8",
+    "activityId": "ca5b30cf-48cc-4275-bf88-19dc0ae53920",
+    "projectId": "c4aaa011-2651-47c9-b0bf-4806a707f48e",
+    "name": "WildChild",
+    "description": "This is a new description",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "C#",
+        "type": "ExecuteCSharp",
+        "version": "1.0.5",
+        "actionId": "4db60946-ba6b-457a-bb63-028fed4c93a4",
+        "actionDefinitionActionId": "89d89be6-4d2c-44e0-8f63-e4ea5b53e3bf",
+        "parameters": [
+          {
+            "key": "command-chip",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "command",
+            "type": "String",
+            "value": "\u0022do stuff\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2025-12-04T16:31:34Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2025-12-04T16:32:04.295Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d"
+  }
+}
