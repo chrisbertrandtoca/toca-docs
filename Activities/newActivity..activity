@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "7908c759-15c7-4e91-a032-39e505861556",
-    "contentHash": "ofuNBU/viuk5IJKwqgsDybNkl4HyzlYWse/atnpl\u002Bgo=",
+    "contentHash": "Xxm4bm0lIT0gba3noqzc5SjjwLAAO05z4/vwI3EISLQ=",
     "platformVersion": "1.0.0",
-    "revisionId": "d10d91f8-f4bd-4b49-aeff-4b2ba086706d",
-    "updatedAt": "2025-12-04T16:30:55.7124098Z",
+    "revisionId": "a8b816ab-b6eb-4a9e-a024-0765572c47de",
+    "updatedAt": "2025-12-08T10:03:39.2309152Z",
     "updatedBy": "System",
     "branch": "/app/git/worktrees/test"
   },
@@ -28,7 +28,7 @@
           {
             "key": "echo",
             "type": "String",
-            "value": "\u0022test\u0022"
+            "value": "\u0022testing with James\u0022"
           },
           {
             "key": "failOnError",
@@ -52,7 +52,7 @@
     "metaData": [],
     "created": "2025-12-04T16:30:39Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2025-12-04T16:30:51.054Z",
+    "updated": "2025-12-08T10:03:32.879Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "publishState": "Draft",
     "activityServiceType": "Stateless",
