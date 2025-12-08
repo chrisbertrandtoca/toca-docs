@@ -28,7 +28,7 @@
           {
             "key": "echo",
             "type": "String",
-            "value": "\u0022John Change\u0022"
+            "value": "\u0022John Change on Git\u0022"
           },
           {
             "key": "failOnError",
