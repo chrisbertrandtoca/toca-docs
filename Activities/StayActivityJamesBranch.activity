@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "id": "ff438438-24cb-4497-9e38-2ea8c7859176",
+    "contentHash": "jgC4WJLUqh3/zLz\u002BBpR97B1caabapSNQ317yFJTTIkI=",
+    "platformVersion": "1.0.0",
+    "revisionId": "69f91eb0-8b09-448e-b416-fafa471dc6f3",
+    "updatedAt": "2025-12-10T14:33:03.3368764Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/james"
+  },
+  "content": {
+    "id": "693984876468012bc4211016",
+    "activityId": "ff438438-24cb-4497-9e38-2ea8c7859176",
+    "projectId": "578a8a95-baf3-4241-8d6c-22edb1005d6c",
+    "name": "StayActivityJamesBranch",
+    "description": "stay",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "59b3b7ce-c149-4d4f-bd11-314e40b16349",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022james branch\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2025-12-10T14:32:39Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2025-12-10T14:32:51.14Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d"
+  }
+}
