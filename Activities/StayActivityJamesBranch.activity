@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "ff438438-24cb-4497-9e38-2ea8c7859176",
-    "contentHash": "znk1ACeWWQpbC0lLD\u002B9kkXB8KQ4hs8aO2ETSFq4fz5U=",
+    "contentHash": "C5\u002BIWKCaMDVWrZZMPsrh6fOUTDSC7oQBji7A00UPf/M=",
     "platformVersion": "1.0.0",
-    "revisionId": "2f01109a-7634-4311-82f1-81fad3a177fe",
-    "updatedAt": "2025-12-10T14:37:17.1562234Z",
+    "revisionId": "5418c257-41f1-49d4-9109-d33054f241eb",
+    "updatedAt": "2025-12-10T16:07:13.3898426Z",
     "updatedBy": "System",
     "branch": "/app/git/worktrees/james"
   },
@@ -66,7 +66,7 @@
           {
             "key": "command",
             "type": "String",
-            "value": "\u0022// CSharp is the best.\u0022"
+            "value": "\u0022// CSharp is the best. For realzies\u0022"
           },
           {
             "key": "timeout",
@@ -105,7 +105,7 @@
     "metaData": [],
     "created": "2025-12-10T14:32:39Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2025-12-10T14:37:12.039Z",
+    "updated": "2025-12-10T16:07:05.898Z",
     "updatedBy": "ae6abf5c-60f0-4d39-b013-c36ebfd4175c",
     "publishState": "Draft",
     "activityServiceType": "Stateless",
