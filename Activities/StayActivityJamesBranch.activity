@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "id": "ff438438-24cb-4497-9e38-2ea8c7859176",
+    "contentHash": "muu4bmBY96GudoBOYdFkRFqeNyj\u002BFyd\u002Ba6M7qbbswkI=",
+    "platformVersion": "1.0.0",
+    "revisionId": "d82c6137-acff-405f-b719-c906202c80d1",
+    "updatedAt": "2025-12-10T14:35:03.4403797Z",
+    "updatedBy": "System",
+    "branch": "/app/git"
+  },
+  "content": {
+    "id": "693984876468012bc4211016",
+    "activityId": "ff438438-24cb-4497-9e38-2ea8c7859176",
+    "projectId": "578a8a95-baf3-4241-8d6c-22edb1005d6c",
+    "name": "StayActivityJamesBranch",
+    "description": "stay",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "59b3b7ce-c149-4d4f-bd11-314e40b16349",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022james branch\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      },
+      {
+        "name": "C#",
+        "type": "ExecuteCSharp",
+        "version": "1.0.5",
+        "actionId": "48f101d4-4d17-4165-8b50-8227d92852a9",
+        "actionDefinitionActionId": "89d89be6-4d2c-44e0-8f63-e4ea5b53e3bf",
+        "parameters": [
+          {
+            "key": "command-chip",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "command",
+            "type": "String",
+            "value": "\u0022// CSharp is the best\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2025-12-10T14:32:39Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2025-12-10T14:34:58.27Z",
+    "updatedBy": "ae6abf5c-60f0-4d39-b013-c36ebfd4175c",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "ae6abf5c-60f0-4d39-b013-c36ebfd4175c"
+  }
+}
