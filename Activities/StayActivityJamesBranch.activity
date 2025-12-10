@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "ff438438-24cb-4497-9e38-2ea8c7859176",
-    "contentHash": "muu4bmBY96GudoBOYdFkRFqeNyj\u002BFyd\u002Ba6M7qbbswkI=",
+    "contentHash": "XYCgkxNzfGar0tqAeMT3cktSMFq7MyKJj\u002BmdkyjyVeY=",
     "platformVersion": "1.0.0",
-    "revisionId": "d82c6137-acff-405f-b719-c906202c80d1",
-    "updatedAt": "2025-12-10T14:35:03.4403797Z",
+    "revisionId": "6d7ba023-e14c-4720-a577-01e3d6a94f76",
+    "updatedAt": "2025-12-10T16:18:40.1793595Z",
     "updatedBy": "System",
     "branch": "/app/git"
   },
@@ -59,9 +59,14 @@
             "value": "false"
           },
           {
+            "key": "inputParams",
+            "type": "Array",
+            "value": "[]"
+          },
+          {
             "key": "command",
             "type": "String",
-            "value": "\u0022// CSharp is the best\u0022"
+            "value": "\u0022// CSharp is the best. For realzeess\u0022"
           },
           {
             "key": "timeout",
@@ -100,7 +105,7 @@
     "metaData": [],
     "created": "2025-12-10T14:32:39Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2025-12-10T14:34:58.27Z",
+    "updated": "2025-12-10T16:18:32.178Z",
     "updatedBy": "ae6abf5c-60f0-4d39-b013-c36ebfd4175c",
     "publishState": "Draft",
     "activityServiceType": "Stateless",
