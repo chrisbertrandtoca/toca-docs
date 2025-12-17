@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "id": "f300b888-0a87-4657-a38b-b3a1d7942635",
+    "contentHash": "FABfcH2yRNT8St3QhIv9WN\u002B29QGtlswlnpnMmjxm6zs=",
+    "platformVersion": "1.0.0",
+    "revisionId": "063e0d3f-3877-4ae7-9628-0b813fd2af3a",
+    "updatedAt": "2025-12-17T15:54:02.8831622Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/james"
+  },
+  "content": {
+    "id": "6942d20a78618f0af829753f",
+    "activityId": "f300b888-0a87-4657-a38b-b3a1d7942635",
+    "projectId": "12e0125a-2ec6-4e05-a97e-ef5d39a373e3",
+    "name": "matt activity",
+    "description": "act]",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "5e5e285e-cf25-490c-bde9-8dc13d75f519",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022testing\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2025-12-17T15:53:46Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2025-12-17T15:53:57.073Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d"
+  }
+}
