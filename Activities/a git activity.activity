@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "b8d14249-8b8c-4636-9611-84edd44aad5a",
-    "contentHash": "8SSk/hI8LongePZE11MHhrf1zReSm\u002BUuC6VaoJMHnuA=",
+    "contentHash": "x\u002BFh/yEbZUTbGjxPW4y5Vde48uB7r9ddE4IX5P4rHGI=",
     "platformVersion": "1.0.0",
-    "revisionId": "8661ced3-903c-47fb-82b8-51ac11ee719a",
-    "updatedAt": "2026-01-08T16:08:35.0570132Z",
+    "revisionId": "71075880-3da0-4eb4-8eab-440680b7c331",
+    "updatedAt": "2026-01-08T16:12:37.5588203Z",
     "updatedBy": "System",
     "branch": "/app/git/worktrees/demo"
   },
@@ -45,6 +45,34 @@
         "results": [],
         "logs": [],
         "datastoreReferences": []
+      },
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "dd0d3126-fdc0-4d20-8f7f-a7b280db3ae7",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022aaa\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
       }
     ],
     "variableMappings": [],
@@ -52,7 +80,7 @@
     "metaData": [],
     "created": "2026-01-08T16:06:40Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2026-01-08T16:08:28.939Z",
+    "updated": "2026-01-08T16:12:30.093Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "publishState": "Draft",
     "activityServiceType": "Stateless",
