@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "id": "b8d14249-8b8c-4636-9611-84edd44aad5a",
+    "contentHash": "8SSk/hI8LongePZE11MHhrf1zReSm\u002BUuC6VaoJMHnuA=",
+    "platformVersion": "1.0.0",
+    "revisionId": "8661ced3-903c-47fb-82b8-51ac11ee719a",
+    "updatedAt": "2026-01-08T16:08:35.0570132Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/demo"
+  },
+  "content": {
+    "id": "695fd6105866d2026352b20c",
+    "activityId": "b8d14249-8b8c-4636-9611-84edd44aad5a",
+    "projectId": "fcc1d793-1634-432d-bfc9-a1d3b6dc7da7",
+    "name": "a git activity",
+    "description": "for git",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "b53e4911-94fd-4925-b80a-1f92d59cf916",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022aaa\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-01-08T16:06:40Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-01-08T16:08:28.939Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d"
+  }
+}
