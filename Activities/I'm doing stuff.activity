@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "id": "5c59687f-9531-4891-9920-c32a382c98a3",
+    "contentHash": "yuoypUM2N6uoEOkFxyBUkO/9xguGO7w0umzN2p0nWbk=",
+    "platformVersion": "1.0.0",
+    "revisionId": "75279688-c157-45e9-a1a7-a3e7dbdea8f4",
+    "updatedAt": "2026-01-12T14:53:31.8988157Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/demo"
+  },
+  "content": {
+    "activityId": "5c59687f-9531-4891-9920-c32a382c98a3",
+    "projectId": "fcc1d793-1634-432d-bfc9-a1d3b6dc7da7",
+    "name": "I\u0027m doing stuff",
+    "description": "stuff",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "C#",
+        "type": "ExecuteCSharp",
+        "version": "1.0.5",
+        "actionId": "76b6fdb5-8230-40da-80c9-ba0fdde87038",
+        "actionDefinitionActionId": "89d89be6-4d2c-44e0-8f63-e4ea5b53e3bf",
+        "parameters": [
+          {
+            "key": "command-chip",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "command",
+            "type": "String",
+            "value": "\u0022## For rekaz\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-01-12T14:40:52Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-01-12T14:53:08.502Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d"
+  }
+}
