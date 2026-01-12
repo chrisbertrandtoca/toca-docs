@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "id": "1542cdf6-9699-47cb-a512-586099e848b5",
+    "contentHash": "xBKjD9ObvBBHHNMHc9WyXCNx4Q24eXblPQ0sj8\u002B2gZM=",
+    "platformVersion": "1.0.0",
+    "revisionId": "838b1f2b-5e07-4129-9039-69e1ffb23430",
+    "updatedAt": "2026-01-12T16:49:04.845027Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/james"
+  },
+  "content": {
+    "activityId": "1542cdf6-9699-47cb-a512-586099e848b5",
+    "projectId": "cb684289-7afc-462f-a254-3f0042fb71b7",
+    "name": "new activity",
+    "description": "blah blah",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "87f3e700-2bad-4b2e-9219-cea54d542440",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022debug\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-01-12T16:48:46Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-01-12T16:48:58.477Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d"
+  }
+}
