@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "id": "4499e96c-c9bf-4601-91e8-6dcf10b2e048",
+    "contentHash": "lqG7M8Gbfdi/mfSC81/PUFvN4MvW7URpX9HlAQG8dtk=",
+    "platformVersion": "1.0.0",
+    "revisionId": "94dcb2d8-4581-4634-bec7-b9611671fb91",
+    "updatedAt": "2026-01-12T12:02:40.3489896Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/demo"
+  },
+  "content": {
+    "activityId": "4499e96c-c9bf-4601-91e8-6dcf10b2e048",
+    "projectId": "fcc1d793-1634-432d-bfc9-a1d3b6dc7da7",
+    "name": "My Demo Activity",
+    "description": "demo",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "26387c3f-bad8-40f7-9623-43fb81657100",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022This is a new activity\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-01-12T12:01:20Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-01-12T12:02:20.994Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "publishState": "Draft",
+    "activityServiceType": "Stateless",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d"
+  }
+}
