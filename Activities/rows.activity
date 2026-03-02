@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "id": "9f5e741c-8695-4174-910a-dcc6446eeb97",
+    "contentHash": "LiCMo\u002BmtQvjYGTBtbqT68xxG6JJknX5H6ycbHO\u002B5lgg=",
+    "platformVersion": "1.0.0",
+    "updatedAt": "2026-03-02T14:24:32.84705Z",
+    "updatedBy": "System",
+    "branch": "/app/git/worktrees/08de213f-b960-4dab-8f35-a16335546329"
+  },
+  "content": {
+    "id": "69a59d5d7668d16f43202824",
+    "projectId": "f60daf87-887b-411a-9ab7-a7e5c6ea6d85",
+    "name": "rows",
+    "description": "rows",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "2b1026e6-7a1f-438d-b160-46a244a497c2",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022aaasdasda\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-03-02T14:23:25+00:00",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-02T14:23:36.6652737Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "activityServiceType": "Stateless",
+    "resourceId": "9f5e741c-8695-4174-910a-dcc6446eeb97",
+    "branch": "dev",
+    "currentUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "workspaceId": "08de213f-b960-4dab-8f35-a16335546329"
+  }
+}
